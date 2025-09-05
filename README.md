@@ -17,7 +17,7 @@ It uses Google Apps Script and MySQL to capture data seamlessly without manual e
 
 The following diagram explains how Google Forms responses are processed and stored in MySQL:
 
-![Workflow Diagram](./Workflow Diagram.png)
+![Workflow Diagram](./Workflow.png)
 
 ---
 
