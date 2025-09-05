@@ -13,6 +13,14 @@ It uses Google Apps Script and MySQL to capture data seamlessly without manual e
 
 ---
 
+## 📊 Project Workflow
+
+The following diagram explains how Google Forms responses are processed and stored in MySQL:
+
+![Workflow Diagram](./yourfilename.png)
+
+---
+
 ## 🛠️ Tech Used
 - **Google Apps Script (.gs)**  
 - **MySQL Database**  
@@ -31,7 +39,7 @@ It uses Google Apps Script and MySQL to capture data seamlessly without manual e
 ## 📊 Example Use Case
 - Collect student attendance via Google Forms  
 - Store responses directly in a database  
-- Generate reports easily using SQL queries  
+- Generate reports easily using SQL queries
 
 ---
 
