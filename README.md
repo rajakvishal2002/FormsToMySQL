@@ -36,5 +36,5 @@ It uses Google Apps Script and MySQL to capture data seamlessly without manual e
 ---
 
 ## ✨ Author
-Project submitted as part of an **internship assignment**.  
-Maintained by: *Vishal Rajak*
+Author: Vishal Rajak  
+📌 Internship Project Submission
